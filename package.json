@@ -1,0 +1,11 @@
+{
+  "name": "croppress",
+  "version": "1.0.0",
+  "description": "Crop and compress an image",
+  "main": "src/index.js",
+  "author": "D4ITON <daitonmh100@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "cropperjs": "^1.5.6"
+  }
+}
